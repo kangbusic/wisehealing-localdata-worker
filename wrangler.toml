@@ -1,4 +1,3 @@
-toml#
 
 name = "wisehealing-localdata-worker"
 main = "worker.js"
